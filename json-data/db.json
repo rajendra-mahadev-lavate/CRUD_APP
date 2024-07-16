@@ -1,0 +1,25 @@
+{
+  "Employe": [
+    {
+      "id": 1,
+      "name": "Rajendra",
+      "email": "rajendraml789@gmail.com",
+      "mobile": "7083709169",
+      "skill": "React"
+    },
+    {
+      "name": "Manoj",
+      "email": "manoj789@gmail.com",
+      "mobile": "7083709169",
+      "skill": "Java",
+      "id": 2
+    },
+    {
+      "name": "Amit devkar",
+      "email": "amit789@gmail.com",
+      "mobile": "7083709169",
+      "skill": "Bootstrap",
+      "id": 3
+    }
+  ]
+}
